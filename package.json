@@ -4,8 +4,8 @@
   "description": "Toast Web Component",
   "main": "wc-toast.js",
   "dependencies": {
-    "@polymer/lit-element": "^0.6.2",
-    "@webcomponents/webcomponentsjs": "^1.1.0"
+    "lit-element": "^2.0.0-rc.5",
+    "@webcomponents/webcomponentsjs": "^2.2.4"
   },
   "devDependencies": {},
   "scripts": {
